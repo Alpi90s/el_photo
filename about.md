@@ -19,6 +19,3 @@ Pi: Urpi, nombre en quechua que significa paloma.
 Alpi es el diminutivo de Alberta, un nombre que en Cotarusi, Aymaraes se usa con cariño
 También significa Alpes en italiano.
  
-		</p>
-	</div>
-</div>
